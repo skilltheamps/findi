@@ -15,3 +15,6 @@ How to use:
  - run "python3 ./findy_list"
  - ctrl+click on interesting links to open them
  - you can rename the "data" folder to backup your database so that you can run a new scan on another range and not have the lists of results mixed with links you already visited
+
+
+In terms of license: Do with the code whatever the heck you want. If you happen to improve this it would be nice if you could publish it though :D
