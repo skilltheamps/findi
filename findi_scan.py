@@ -23,11 +23,6 @@ def find_between( s, first, last ):
 
 subprocess.call(["mkdir", "./data"])
 
-#subprocess.call(["ipscan", "-f:range", "178.26.190.1", "178.26.191.1", 
-#"-o", "./scanresults.lst", "-s", "-q"])
-#
-#scanresults = open("./scanresults.lst", "r")
-
 maxRedirect = 4
 scanresults = []
 
